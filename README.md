@@ -1,2 +1,1 @@
-# .github
-Digital Democracy Hub Schweiz - Fachstelle für Demokratie und Digitalisierung
+# Digital Democracy Hub Schweiz - Fachstelle für Demokratie und Digitalisierung
